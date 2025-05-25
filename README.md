@@ -61,4 +61,5 @@
 </head>
 <body>
   <div class="card">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAIAAADLabXuAAAACXBIWXMAAAsTAAALEwEAmpwYAAACzElEQVR4nO3bsY2EQRBA0WvBv//0XAsGNYEYqtM9XbdcRnT5EOzMztKZzQaTRaPRaDRaPRaPRaDRaPRaPRaDRaPRaPRaDRaPRaPxbhs69ncRYgME4zzBHnLM8xRxzD
+    <img src="https://static.escolakids.uol.com.br/2023/08/paisagem-natural.jpg">
+    
