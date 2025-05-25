@@ -61,5 +61,6 @@
 </head>
 <body>
   <div class="card">
-    <img src="https://static.escolakids.uol.com.br/2023/08/paisagem-natural.jpg">
-    
+       <img src="https://static.escolakids.uol.com.br/2023/08/paisagem-natural.jpg" alt="Logo React" width="200">
+</body>
+</html>
